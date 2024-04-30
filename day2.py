@@ -50,27 +50,27 @@
 
 #what if I wanted to make the letters in the variable upper case or lower?
 
-new_phrase = "welcome to day 2 part 3"
-print(len(new_phrase))
-print(new_phrase.upper())
-# .upper is a method that makes the string all upper case
-# parentheses are used to call methods
-print(new_phrase.lower())
-# .lower is a methos that makes the string all lower case
+# new_phrase = "welcome to day 2 part 3"
+# print(len(new_phrase))
+# print(new_phrase.upper())
+# # .upper is a method that makes the string all upper case
+# # parentheses are used to call methods
+# print(new_phrase.lower())
+# # .lower is a methos that makes the string all lower case
 
-#what if I wanted to check and see if the phrase was all lower or upper?
-print(new_phrase.islower())
-# returns a boolean true or false
+# #what if I wanted to check and see if the phrase was all lower or upper?
+# print(new_phrase.islower())
+# # returns a boolean true or false
 
-#What if I wanted to get one letter of the phrase
-print(new_phrase[0])
-# 0 prints first place
-print(new_phrase[1])
-print(new_phrase[2])
-print(new_phrase[11])
-print(new_phrase[22])
-# for last letter 22 or -1
-print(new_phrase[-1])
+# #What if I wanted to get one letter of the phrase
+# print(new_phrase[0])
+# # 0 prints first place
+# print(new_phrase[1])
+# print(new_phrase[2])
+# print(new_phrase[11])
+# print(new_phrase[22])
+# # for last letter 22 or -1
+# print(new_phrase[-1])
 
 # The names you use when creating these labels need to follow a few rules:
 # 1. Names can not start with a number.
